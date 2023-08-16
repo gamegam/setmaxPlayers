@@ -1,0 +1,9 @@
+name: MaxPlayer
+main: gamegam\MaxPlayer\MaxPlayer
+author: gamegam
+version: 0.1
+api: 5.0.0
+
+permissions:
+  MaxPlayer.permission:
+    default: op
